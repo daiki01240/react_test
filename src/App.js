@@ -22,9 +22,7 @@ constructor(props){
       <button onClick={this.handlePlusButton}>+1</button>
       <button onClick={this.handleMinusButton}>-1</button>
     </React.Fragment>;
-
 }
-
 }
 
 export default App;
